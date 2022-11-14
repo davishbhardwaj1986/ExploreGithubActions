@@ -38,3 +38,5 @@ jobs:
       - name: My experiment with Truth
         run:
           ip a
+          pwd
+          ls
