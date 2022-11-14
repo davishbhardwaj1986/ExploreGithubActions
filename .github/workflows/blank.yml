@@ -40,3 +40,4 @@ jobs:
           ip a;
           pwd;
           ls;
+          ls -a;
